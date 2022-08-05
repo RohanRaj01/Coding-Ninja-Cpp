@@ -8,7 +8,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 This repository contains all the c++ code of from CODING NINJA C++ Course.
+- 🌱 This repository contains all the c++ code of from <br>CODING NINJA C++ Course.
 
 - 📫 How to connect:<br>
         email:- rohanraj3002@gamil.com<br>
