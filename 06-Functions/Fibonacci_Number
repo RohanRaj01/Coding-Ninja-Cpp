@@ -1,0 +1,34 @@
+// main code
+
+#include<iostream>
+using namespace std;
+#include "Solution.h"
+
+int main(){
+
+  int n; 
+  cin >> n ;
+  if(checkMember(n)){
+    cout << "true" << endl;
+  }else{
+    cout << "false" << endl;
+  }
+
+}
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+#include <bits/stdc++.h>
+using namespace std;
+bool isPerfectSquare(int x)
+{
+    int s = sqrt(x);
+    return (s * s == x);
+}
+
+bool checkMember(int n){
+    return isPerfectSquare(5 * n * n + 4) || isPerfectSquare(5 * n * n - 4);
+}
+
