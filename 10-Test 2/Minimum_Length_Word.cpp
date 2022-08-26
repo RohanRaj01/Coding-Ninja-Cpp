@@ -21,8 +21,8 @@ ________________________________________________________________________________
 
 
 /* input - Input String
-*  output - Save the result in the output array (passed as argument). You don’t have to 
-*  print or return the result
+   output - Save the result in the output array (passed as argument). You don’t have to 
+   print or return the result
 */
 
 #include <climits>
